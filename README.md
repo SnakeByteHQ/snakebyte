@@ -1,9 +1,8 @@
-## SnakeByte — Python automation & web scraping
+# SnakeByte — code from the videos
 
-**Scrape. Automate. Ship.**
+Code from the [SnakeByte YouTube channel](https://www.youtube.com/@SnakeByteHQ).
+Each folder is one video: working code and a short README on how to run it.
 
-On my YouTube channel I build real Python tools step by step: scrapers that don't break, bots that message you, and jobs that run on a schedule.
-
-- YouTube: [@SnakeByteHQ](https://www.youtube.com/@SnakeByteHQ)
-- Code from every video: [snakebyte](https://github.com/SnakeByteHQ/snakebyte)
-- Business: snakeee.byte@gmail.com
+| # | Video | Folder |
+| --- | --- | --- |
+| 1 | Find the Hidden API Behind Any Website | coming soon |
