@@ -1,5 +1,7 @@
 # Python 3.15 lazy imports: one word, faster startup
 
+Watch the Short: [youtube.com/shorts/UpZWB-XVvu0](https://youtube.com/shorts/UpZWB-XVvu0)
+
 Code from the SnakeByte Short "Python 3.15: one word, 16x faster startup".
 
 `cli.py` is a tiny CLI: it downloads JSON from a URL and prints it as a table with pandas.
