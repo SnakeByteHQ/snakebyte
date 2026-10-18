@@ -3,9 +3,9 @@
 Code from the [SnakeByte YouTube channel](https://www.youtube.com/@SnakeByteHQ).
 Each folder is one video: working code and a short README on how to run it.
 
-| # | Video | Folder |
-| --- | --- | --- |
-| 1 | Find the Hidden API Behind Any Website | coming soon |
+| # | Video | Folder | Video |
+| --- | --- | --- | --- |
+| 1 | Find the Hidden API Behind Any Website | [01-hidden-api](01-hidden-api/) | [video](https://youtu.be/XzqrRwE4mIA) |
 
 
 ## Shorts
